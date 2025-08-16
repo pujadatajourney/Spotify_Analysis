@@ -56,10 +56,10 @@ More complex queries involving grouping, aggregation functions, and joins.
 ## Advanced Queries
 Nested subqueries, window functions, CTEs, and performance optimization.
 
-8. Query Optimization
+## Query Optimization
 In advanced stages, the focus shifts to improving query performance. Some optimization strategies include:
 
-Indexing: Adding indexes on frequently queried columns.
+>Indexing: Adding indexes on frequently queried columns.
 
-Query Execution Plan: Using EXPLAIN ANALYZE to review and refine query performance.
+>Query Execution Plan: Using EXPLAIN ANALYZE to review and refine query performance.
 
