@@ -1,6 +1,5 @@
 # Spotify_Analysis
-
-This project involves analyzing a Spotify dataset with various attributes about tracks, albums, and artists using SQL. It covers an end-to-end process of normalizing a denormalized dataset, performing SQL queries of varying complexity (easy, medium, and advanced), and optimizing query performance. The primary goals of the project are to practice advanced SQL skills and generate valuable insights from the dataset.
+This project focuses on analyzing a Spotify dataset containing detailed information about tracks, albums, and artists using SQL. It involves the complete process of normalizing a denormalized dataset, writing SQL queries of varying complexity (easy, medium, and advanced), and applying query optimization techniques. The key objective of this project is to strengthen advanced SQL skills while extracting meaningful insights from the dataset
 
 ![](https://github.com/pujadatajourney/Spotify_Analysis/blob/main/spotify_logo.jpg)
 
