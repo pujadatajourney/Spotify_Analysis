@@ -2,7 +2,9 @@
 
 This project involves analyzing a Spotify dataset with various attributes about tracks, albums, and artists using SQL. It covers an end-to-end process of normalizing a denormalized dataset, performing SQL queries of varying complexity (easy, medium, and advanced), and optimizing query performance. The primary goals of the project are to practice advanced SQL skills and generate valuable insights from the dataset.
 
-'''sql
+https://github.com/pujadatajourney/Spotify_Analysis/blob/main/spotify_logo.jpg
+
+```sql
 create table
 DROP TABLE IF EXISTS spotify;
 CREATE TABLE spotify (
@@ -31,9 +33,10 @@ CREATE TABLE spotify (
     energy_liveness FLOAT,
     most_played_on VARCHAR(50)
 );
-'''
+```
 
-Project Steps
+##Project Steps
+
 1. Data Exploration
 Before diving into SQL, it’s important to understand the dataset thoroughly. The dataset contains attributes such as:
 
@@ -42,15 +45,17 @@ Track: The name of the song.
 Album: The album to which the track belongs.
 Album_type: The type of album (e.g., single or album).
 Various metrics such as danceability, energy, loudness, tempo, and more.
+
 4. Querying the Data
 After the data is inserted, various SQL queries can be written to explore and analyze the data. Queries are categorized into easy, medium, and advanced levels to help progressively develop SQL proficiency.
 
-Easy Queries
+##Easy Queries
 Simple data retrieval, filtering, and basic aggregations.
 Medium Queries
 More complex queries involving grouping, aggregation functions, and joins.
 Advanced Queries
 Nested subqueries, window functions, CTEs, and performance optimization.
+
 5. Query Optimization
 In advanced stages, the focus shifts to improving query performance. Some optimization strategies include:
 
